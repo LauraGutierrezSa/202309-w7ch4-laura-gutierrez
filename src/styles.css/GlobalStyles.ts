@@ -27,6 +27,7 @@ h1 {
 }
 
 body {
+  padding: 30px;
   font-size: var(--main-font-size);
   background-color: var(--main-color);
 }
